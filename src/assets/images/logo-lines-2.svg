@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.4755945mm"
+   height="6.8453431mm"
+   viewBox="0 0 5.4755945 6.8453431"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename=".\bitmap.png"
+   inkscape:export-xdpi="2189.73"
+   inkscape:export-ydpi="2189.73"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showguides="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-71.421289,-124.53843)">
+    <g
+       id="g35"
+       inkscape:export-filename="logo-lines-2.svg"
+       inkscape:export-xdpi="8144.6602"
+       inkscape:export-ydpi="8144.6602">
+      <path
+         id="text13-9"
+         style="font-weight:bold;font-size:10.9194px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT, Bold';mix-blend-mode:darken;fill:#fc3400;fill-opacity:0.00871462;stroke:#000000;stroke-width:0.109;stroke-dasharray:none;stroke-opacity:0.671024"
+         d="m 67.080765,132.75936 v 7.00041 l 0.490079,0.002 -0.002,0.17291 1.498953,3.2e-4 0.0041,-0.16 -0.002,-2.55038 0.876348,-0.0126 c 0.261454,-0.0181 0.387634,-0.057 0.517087,-0.0967 0.160022,-0.0492 0.48685,-0.17679 0.58707,-0.23183 0.417151,-0.22912 0.662524,-0.54866 0.755767,-0.72435 0.059,-0.11117 0.163049,-0.32389 0.2321,-0.59386 0.09844,-0.34286 0.07712,-0.72755 0.02938,-1.06535 -0.103101,-0.72954 -0.900389,-1.41569 -1.380326,-1.46678 -0.18412,-0.0196 -0.585551,-0.27411 -1.21277,-0.27404 z m 2.980575,2.13278 c 7.5e-4,0.60035 -0.384228,0.91738 -0.917068,0.91738 h -0.09258 c -0.0028,-0.39778 -0.02036,-1.59448 -0.0028,-1.60267 0.06978,-0.0325 0.376142,-0.008 0.59726,-0.0151 0.2883,-0.009 0.41504,0.58192 0.415177,0.69156 z"
+         transform="scale(1.0655716,0.93846346)"
+         sodipodi:nodetypes="ccccccccssscssscsscssss"
+         inkscape:export-filename=".\text13-9.svg"
+         inkscape:export-xdpi="4434.1099"
+         inkscape:export-ydpi="4434.1099" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:10.9194px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT, Bold';fill:#ffd3fc;fill-opacity:0;stroke:#000000;stroke-width:0.109;stroke-dasharray:none;stroke-opacity:0.671024"
+         x="66.830009"
+         y="139.94073"
+         id="text1-5"
+         transform="scale(1.0655716,0.93846346)"><tspan
+           id="tspan1-3"
+           x="66.830009"
+           y="139.94073"
+           sodipodi:role="line"
+           style="fill:#ffd3fc;fill-opacity:0;stroke:#000000;stroke-width:0.109;stroke-dasharray:none;stroke-opacity:0.671024">P</tspan></text>
+    </g>
+  </g>
+</svg>
